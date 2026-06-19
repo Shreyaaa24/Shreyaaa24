@@ -3,9 +3,9 @@
 
 <p align="center">
   🌱 Currently improving my skills in Web Development and actively contributing to open-source<br>
-  🛠️ Tech Stack: HTML, CSS, JavaScript, ReactJS, C, Python, Java<br>
+  🛠️ Tech Stack: HTML, CSS, JavaScript, ReactJS, NextJs, TypeScript,  C+++, Python, Java<br>
   📫 Reach me at: <strong>shreyaaa2464@gmail.com</strong><br>
-  💼 Portfolio: <a href="https://shreyaaa24.github.io/portfolio/" target="_blank">View My Portfolio</a><br>
+  💼 Portfolio: <a href="https://shreya-portfolio-pearl.vercel.app/" target="_blank">View My Portfolio</a><br>
 </p>
 
 ---
