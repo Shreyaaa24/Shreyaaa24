@@ -19,9 +19,9 @@
 ---
 
 ## 🏅 Projects
-- 🍽️ [Restaurant Website](https://github.com/CSI-Trainee-2024/Task1_shreya2313056)<br>
-- 🚗 [Car Game](https://github.com/CSI-Trainee-2024/Task3_shreya2313056)<br>
-- 👋 [Hola](https://github.com/vanshguptaji/hola)
+- [AI Trip Planner](https://github.com/Shreyaaa24/AI-trip-planner)<br>
+- [College-finder-app](https://github.com/Shreyaaa24/college-finder-web)<br>
+- [Portfolio](https://github.com/Shreyaaa24/shreya-portfolio)
 
 ---
 
